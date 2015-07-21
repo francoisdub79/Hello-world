@@ -1,2 +1,2 @@
 # Hello-world
-Exercice de démarrage Github
+Je suis étudiant français en MASTER SIAD
